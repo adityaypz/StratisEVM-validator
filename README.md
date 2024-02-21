@@ -1,0 +1,1 @@
+# StratisEVM-validator
