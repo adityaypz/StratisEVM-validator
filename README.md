@@ -92,7 +92,7 @@ wget https://github.com/stratisproject/prysm-stratis/releases/download/0.1.1/val
 ```
 wget https://github.com/stratisproject/staking-deposit-cli/releases/download/0.1.0/staking-deposit-cli-linux-amd64.zip
 ```
-#5. RUN Validator dulu ga sih 
+# 5. RUN Validator dulu ga sih 
 
 copas 
 
